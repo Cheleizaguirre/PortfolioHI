@@ -1,4 +1,4 @@
-import cipotes from "../assets/cipotes2.png";
+import cipotes from "../assets/cipotesv2.png";
 import emotionsense from "../assets/emotionsense.png";
 import emizon from "../assets/emizon.png";
 
