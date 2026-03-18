@@ -8,8 +8,15 @@ import networking from "../assets/redes.png";
 import shell from "../assets/shell_scripting.png";
 import cybersecurity from "../assets/ciberseguridad.png";
 import hackathon from "../assets/hackathon.png";
+import networking_design from "../assets/diseno_redes.png";
 
 const certificates = [
+  {
+    title: "Network Design Fundamentals",
+    institution: "LinkedIn Learning",
+    date: "March 2026",
+    image: networking_design,
+  },
   {
     title: "Essential Network Management",
     institution: "LinkedIn Learning",
@@ -37,25 +44,25 @@ const certificates = [
   {
     title: "Agile Project Management With Trello",
     institution: "LinkedIn Learning",
-    date: "March 2024",
+    date: "July 2024",
     image: agileTrello,
   },
   {
     title: "Mastering MySQL",
     institution: "LinkedIn Learning",
-    date: "March 2024",
+    date: "July 2024",
     image: mysql,
   },
   {
     title: "Programming Fundamentals: Data Structures",
     institution: "LinkedIn Learning",
-    date: "July 2024",
+    date: "March 2024",
     image: dataStructures,
   },
   {
     title: "Fundamentals of Agile Project Management",
     institution: "LinkedIn Learning",
-    date: "July 2024",
+    date: " March 2024",
     image: agileFundamentals,
   },
   {
