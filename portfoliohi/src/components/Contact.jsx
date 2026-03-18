@@ -20,7 +20,7 @@ export default function Contact() {
             <a href="https://www.instagram.com/cheleizaguirre/" target="_blank">
               <FaInstagram />
             </a>
-            <a href="www.linkedin.com/in/hector-izaguirre" target="_blank">
+            <a href="https://www.linkedin.com/in/hector-izaguirre" target="_blank">
               <FaLinkedin />
             </a>
             <a href="https://github.com/Cheleizaguirre" target="_blank">
